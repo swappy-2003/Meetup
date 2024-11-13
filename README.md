@@ -59,21 +59,21 @@ Before you begin, ensure you have the following installed:
 4. Update the `.env` file with your credentials
 
 ## 📁 Project Structure
-src/ 
-├── components/ 
- Reusable UI components
-├── pages/
- Route pages
-├── contexts/ 
- React contexts 
-├── hooks/
-Custom hooks
-├── services/ 
- API and service functions 
-├── utils/ 
- Helper functions
-└── App.jsx 
- Main application component
+src/
+├── components/        # Reusable UI components
+│   ├── Button/
+│   │   ├── Button.jsx
+│   │   └── index.js
+│   ├── VideoPlayer/
+│   │   ├── VideoPlayer.jsx
+│   │   └── index.js
+│   ├── Chat/
+│   │   ├── Chat.jsx
+│   │   └── index.js
+│   └── Layout/
+│       ├── Header.jsx
+│       ├── Footer.jsx
+│       └── index.js
  
 ## 🔑 Usage
 
