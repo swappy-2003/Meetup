@@ -61,13 +61,7 @@ Before you begin, ensure you have the following installed:
 3. Copy your App ID and Server Secret
 4. Update the `.env` file with your credentials
 
-## ✨ Features
 
-- 💻 One-on-One and Group Video Calls
-- 👥 Video Conferencing for Multiple Users
-- 💬 In-Call Messaging for Real-Time Communication
-- 🖊️ Whiteboard Integration for Collaborative Drawing and Notes
-- 📌 Pin User to Focus on a Specific Participant
 
 
 
