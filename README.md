@@ -1,4 +1,4 @@
-# 🎥 ZegoMeet - Video Conferencing Application
+# 🎥 MeetUP - Video Conferencing Application
 
 A modern video conferencing application built with React, powered by ZEGOCLOUD SDK for real-time communication. Features include video calls, screen sharing, and virtual meetings with multiple participants.
 
