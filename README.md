@@ -59,3 +59,4 @@ Before you begin, ensure you have the following installed:
 4. Update the `.env` file with your credentials
 
 ## 📁 Project Structure
+src/ ├── components/ # Reusable UI components ├── pages/ # Route pages ├── contexts/ # React contexts ├── hooks/ # Custom hooks ├── services/ # API and service functions ├── utils/ # Helper functions └── App.jsx # Main application component
