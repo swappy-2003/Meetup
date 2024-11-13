@@ -74,3 +74,33 @@ Custom hooks
  Helper functions
 └── App.jsx 
  Main application component
+ 
+## 🔑 Usage
+
+1. Open the application in your browser
+2. Create or join a room using a unique room ID
+3. Grant camera and microphone permissions
+4. Start video conferencing!
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👏 Acknowledgments
+
+- [ZEGOCLOUD](https://www.zegocloud.com/) for their excellent SDK
+- [Tailwind CSS](https://tailwindcss.com/) for the styling framework
+- [React Router](https://reactrouter.com/) for routing capabilities
+
+## 📞 Support
+
+For support, email your-email@example.com or create an issue in this repository.
+
