@@ -4,13 +4,16 @@ A modern video conferencing application built with React, powered by ZEGOCLOUD S
 
 ## ✨ Features
 
-- 💻 One-on-One Video Calls
-- 👥 Group Video Conferences
-- 🖥️ Screen Sharing Capability
-- 💬 Real-time Chat During Calls
-- 🔐 Secure Room Creation
-- 🎨 Modern UI with Tailwind CSS
-- 📱 Responsive Design
+- 💻 **One-on-One and Group Video Conferencing**: Seamless video calls supporting both one-to-one and multiple users in a single session.
+- 💬 **In-Call Messaging**: Real-time chat functionality to communicate with participants during the call.
+- 📝 **Whiteboard Integration**: Collaborative whiteboard for real-time drawing, annotations, and brainstorming within the video call.
+- 📌 **Pin User**: Highlight or pin a specific participant, keeping their video feed in focus for all users.
+- 🔗 **Invite Link Generation**: Easily invite others by generating and sharing a unique room link.
+- 🖥️ **Screen Sharing Capability**: Share your screen with other participants for presentations or collaboration.
+- 🔐 **Secure Room Creation**: Encrypted rooms for safe, private conversations.
+- 🎨 **Modern UI with Tailwind CSS**: Sleek and intuitive design for an enhanced user experience.
+- 📱 **Responsive Design**: Optimized for both desktop and mobile devices, ensuring flexibility for all users.
+
 
 ## 🚀 Tech Stack
 
