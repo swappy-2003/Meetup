@@ -58,22 +58,14 @@ Before you begin, ensure you have the following installed:
 3. Copy your App ID and Server Secret
 4. Update the `.env` file with your credentials
 
-## 📁 Project Structure
-src/
-├── components/        # Reusable UI components
-│   ├── Button/
-│   │   ├── Button.jsx
-│   │   └── index.js
-│   ├── VideoPlayer/
-│   │   ├── VideoPlayer.jsx
-│   │   └── index.js
-│   ├── Chat/
-│   │   ├── Chat.jsx
-│   │   └── index.js
-│   └── Layout/
-│       ├── Header.jsx
-│       ├── Footer.jsx
-│       └── index.js
+##Features
+1.Video conferencing between one-to-one  and mutiple user 
+2.In call Messaging 
+3.WhiteBoard Intergration
+4.pin the user
+5.invite link
+
+
  
 ## 🔑 Usage
 
