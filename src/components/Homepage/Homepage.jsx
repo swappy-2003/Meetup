@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVideo } from "@fortawesome/free-solid-svg-icons";
+import githubfooter from "../githubfooter";
 
 function HomePage() {
   const [roomId, setRoomId] = useState("");
@@ -73,7 +74,9 @@ function HomePage() {
           </div>
         </div>
       </div>
+     <githubfooter/>
     </div>
+
   );
 }
 
