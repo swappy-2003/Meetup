@@ -61,13 +61,16 @@ Before you begin, ensure you have the following installed:
 ## 📁 Project Structure
 src/ 
 ├── components/ 
-# Reusable UI components
+## Reusable UI components
 ├── pages/
-# Route pages
+## Route pages
 ├── contexts/ 
-# React contexts 
+## React contexts 
 ├── hooks/
-# Custom hooks ├── services/ 
-# API and service functions ├── utils/ 
-# Helper functions └── App.jsx 
+## Custom hooks
+├── services/ 
+## API and service functions 
+├── utils/ 
+## Helper functions
+└── App.jsx 
 # Main application component
