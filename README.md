@@ -58,13 +58,14 @@ Before you begin, ensure you have the following installed:
 3. Copy your App ID and Server Secret
 4. Update the `.env` file with your credentials
 
-## Features
+## ✨ Features
 
-1.Video conferencing between one-to-one  and mutiple user 
-2.In call Messaging 
-3.WhiteBoard Intergration
-4.pin the user
-5.invite link
+- 💻 One-on-One and Group Video Calls
+- 👥 Video Conferencing for Multiple Users
+- 💬 In-Call Messaging for Real-Time Communication
+- 🖊️ Whiteboard Integration for Collaborative Drawing and Notes
+- 📌 Pin User to Focus on a Specific Participant
+
 
 
  
