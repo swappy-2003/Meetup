@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVideo } from "@fortawesome/free-solid-svg-icons";
-import githubfooter from "../githubfooter";
+import { FaGithub, FaCoffee } from 'react-icons/fa'
+
 
 function HomePage() {
   const [roomId, setRoomId] = useState("");
@@ -74,7 +75,31 @@ function HomePage() {
           </div>
         </div>
       </div>
-     <githubfooter/>
+      <div className="bg-gray-50 p-6 text-center">
+          <p className="text-gray-600 mb-4">
+            Video conferencing and calling App Generate ID to get started 
+          </p>
+          <div className="flex justify-center space-x-4">
+            <a
+              href="https://github.com/swappy-2003"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-600 hover:text-purple-500 transition-colors duration-300"
+            >
+              <FaGithub size={24} />
+              <span className="sr-only">GitHub</span>
+            </a>
+            <a
+              href="https://www.buymeacoffee.com/swapnil2003"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-600 hover:text-yellow-500 transition-colors duration-300 flex items-center"
+            >
+              <FaCoffee size={24} className="mr-2" />
+              <span>Buy me a coffee</span>
+            </a>
+          </div>
+        </div>
     </div>
 
   );
